@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Hariom kurmi</h1>
 <h3 align="center">A passionate Mobile developer and interested in learning new tech</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
