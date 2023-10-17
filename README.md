@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **I'm Open to everything**
 
-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanH16&include_all_commit=true&count_private=true"/> </div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/patelhariomk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patelhariomk" height="30" width="40" /></a>
